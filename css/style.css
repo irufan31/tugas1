@@ -1,0 +1,33 @@
+.navup{
+    height:auto;
+    background-color: aquamarine;
+    padding: 10px 30px 5px 30px;
+}
+.navup a{
+    font-size: 30px;
+    margin: 0 20px 0 5px;
+    
+}
+.list {
+    float: right;
+    padding-top: 15px;
+    
+    
+}
+.logo {
+    display: inline-block;
+}
+.main_wrapper{
+    padding: 0 10% 0 10%;
+    align-content: center;
+    height: auto;
+    background-color: beige;
+    
+}
+.Banner img {
+   width: 80%;
+}
+.Banner{ 
+margin-left: 10%;
+margin-right: 10%;
+}
